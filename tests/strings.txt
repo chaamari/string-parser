@@ -1,0 +1,5 @@
+rttr[mnop]qrst this is valid   (rttr outside square brackets).
+efgh[baab]ommo this is invalid (baab is within brackets, ommo outside brackets).
+bbbb[qwer]ereq this is invalid (bbbb is invalid, since the middle two characters should be different.
+irttrj[asdfgh]zxcvbn this is valid (rttr is outside square brackets).
+xxrf[q113] q11q this is valid (q11q is valid since numerics can be considered in the text)
